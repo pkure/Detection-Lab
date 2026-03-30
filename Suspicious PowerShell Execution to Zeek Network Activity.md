@@ -1,4 +1,3 @@
-<html>
 <h2>Suspicious PowerShell Execution → Network Activity</h2>
 
 <p>
@@ -148,6 +147,6 @@ to:
 <blockquote>
   “This host executed a PowerShell download cradle and retrieved a remote script.”
 </blockquote>
-</html>
+
 
 

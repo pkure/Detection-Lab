@@ -1,6 +1,8 @@
 <h2>Suspicious PowerShell Execution → Network Activity</h2>
 
-
+<p align="center">
+  <img src="/images/suspicious_powershell_zeek_correlation_pic.png" width="700">
+</p>
 
 <p>
 For this scenario, it was assumed the attacker already had access to a Windows workstation (<strong>WS01</strong>). 

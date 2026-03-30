@@ -65,7 +65,7 @@ Using Sysmon process creation logs (<code>EventCode=1</code>), I built a detecti
   <img src="/images/suspicious_powershell_commands3.png" width="700">
 </p>
 
-<h3>(Attack commands were also ran on the Windows DC within the lab, as seen in the Splunk output, but this demo was simplified to focus on WS01)</h3>
+<h5>(***Attack commands were also ran on the Windows DC within the lab, as seen in the Splunk output, but this demo was simplified to focus on WS01)</h5>
 
 <h3>Detection Logic</h3>
 

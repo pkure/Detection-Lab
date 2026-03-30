@@ -1,5 +1,7 @@
 <h2>Suspicious PowerShell Execution → Network Activity</h2>
 
+
+
 <p>
 For this scenario, it was assumed the attacker already had access to a Windows workstation (<strong>WS01</strong>). 
 Instead of focusing on initial access, the goal here was to simulate what happens next: post-compromise activity, where an attacker starts using PowerShell to download additional tools or extend their foothold.

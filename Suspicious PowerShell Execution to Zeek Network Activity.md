@@ -60,6 +60,12 @@ Using Sysmon process creation logs (<code>EventCode=1</code>), I built a detecti
 | table _time host CommandLine ParentProcessName Image score
 | sort - score - _time</code></pre>
 
+
+<p align="center">
+  <img src="/images/suspicious_powershell_commands3.png" width="700">
+</p>
+
+
 <h3>Detection Logic</h3>
 
 <p>
@@ -99,6 +105,11 @@ Instead of searching for a known filename from the start, I pivoted based on:
 
 <p>
 From there, I reviewed Zeek logs, especially <code>conn.log</code> and the related HTTP activity.
+</p>
+
+
+<p align="center">
+  <img src="/images/suspicious_powershell_commands4.png" width="700">
 </p>
 
 <h3>What Zeek Showed</h3>

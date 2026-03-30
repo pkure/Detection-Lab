@@ -26,6 +26,14 @@ From WS01, I ran a series of PowerShell commands that mimic typical attacker beh
   <li>download cradle behavior using <code>IEX</code> and <code>Net.WebClient</code></li>
 </ul>
 
+<p align="center">
+  <img src="/images/suspicious_powershell_commands1.png" width="700">
+</p>
+
+<p align="center">
+  <img src="/images/suspicious_powershell_commands2.png" width="700">
+</p>
+
 <p>
 These are command-line arguments, often referred to in detection work as suspicious PowerShell flags. 
 They are frequently seen in malicious activity, especially when attackers are trying to obfuscate what they are doing or avoid basic detections.

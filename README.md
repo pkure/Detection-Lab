@@ -1,4 +1,7 @@
-# Detection-Lab
-Splunk, Snort, Zeek, SiLK, and other tools used in a small Windows / Linux VM homelab to show detections.
+<h2>Detection Lab Architecture</h2>
 
-![Detection Lab Diagram](detection-lab-basic-diagram.png)
+<p align="center">
+  <img src="detection-lab-basic-diagram.png" width="700">
+</p>
+
+<h3>Splunk, Snort, Zeek, SiLK, and other tools used in a small Windows / Linux VM homelab to show detections.</h3>
